@@ -197,4 +197,4 @@ This repository serves as a record of my practical learning and progress during 
 **Batch:** B084  
 **Program:** Networkwalks Cybersecurity & Ethical Hacking Internship
 
-**LinkedIn:** [Add your LinkedIn profile URL]
+**LinkedIn:** https://www.linkedin.com/in/amit-pokharel-008210321/
